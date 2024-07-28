@@ -1,6 +1,6 @@
 # Lab Assignment 01
 
-In this lab you will practice writing Java code to output a simple "Hello World!" message.
+In this lab you will practice writing Java code to output a simple **Hello World!** message.
 
 Similar to C++, we have to set up our work are before we can write our output command.
 
