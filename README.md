@@ -16,7 +16,7 @@ public class Hello {
 
 Unlike C++, we don't need to add a semicolon (;) at the end of our class declaration.
 
-Next, let's create a `main()` function inside our Hello class and let's make it `public`!
+Next, let's create a `main()` method inside our Hello class and let's make it `public`!
 
 ```java
 	public static void main(String[] args) {
@@ -24,7 +24,7 @@ Next, let's create a `main()` function inside our Hello class and let's make it 
 	}
 ```
 
-You'll notice this main() function is different from the main() function you used in C++. Some key words that may stand out are `static` and `String[] args`. `String[] args` is simply a parameter for a string array we are passing into our function, it can be replaced by `String[] oogabooga` (not good practice though). The `static` keyword will be discussed later.
+You'll notice this main() method is different from the main() method you used in C++. Some key words that may stand out are `static` and `String[] args`. `String[] args` is simply a parameter for a string array we are passing into our method, it can be replaced by `String[] oogabooga` (not good practice though). The `static` keyword will be discussed later.
 
 Last step!
 
