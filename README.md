@@ -46,3 +46,4 @@ Now let's run our code! You should get a **Hello World!** message on your termin
 
 ## Submit your assignment
 
+[How to Submit Assignments to GitHub](https://joselitoguardado.dev/3326/How_to_Submit_Assignments_to_GitHub.pdf)
