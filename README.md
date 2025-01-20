@@ -46,4 +46,3 @@ Now let's run our code! You should get a **Hello World!** message on your termin
 
 ## Submit your assignment
 
-To submit your lab assignment click on the **Source Control** icon (3 circles with 2 lines) on your leftside navbar. Next, click on the **+** symbol next to **Changes** to stage your changes. Lastly, add a commit message (ex: "First commit") and click **Commit** then **Sync Changes**. And you're done!
