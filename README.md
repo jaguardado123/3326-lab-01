@@ -2,11 +2,11 @@
 
 In this lab you will practice writing Java code to output a simple **Hello World!** message.
 
-Similar to C++, we have to set up our work are before we can write our output command.
+Similar to C++, we have to set up our work area before we can write our output command.
 
 ## Let's get started!
 
-First let's look at the name of our .java file in the `src/` directory. Java is an object-oriented programming (OOP) language that requires us to create a class in order to run code, so let's create a class! In Java our main class must have the same name as our .java file, so let's make a class with the same name as our file and let's make it `public`.
+First, let's look at the name of our .java file in the `src/` directory. Java is an object-oriented programming (OOP) language that requires us to create a class in order to run code, so let's create a class! In Java our main class must have the exact same name as our .java file, so let's make a class with the same name as our file and let's make it `public`.
 
 ```java
 public class Hello {
