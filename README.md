@@ -1,6 +1,6 @@
-# Lab Assignment 01
+# Lab 01
 
-In this lab you will practice writing Java code to output a simple **Hello World!** message.
+In this lab you will practice writing a simple Java program.
 
 Similar to C++, we have to set up our work area before we can write our output command.
 
@@ -44,8 +44,17 @@ or
 
 Now let's run our code! You should get a **Hello World!** message on your terminal.
 
-## Submit your assignment
+## Your Assignment
 
-[Grading Criteria](https://joselitoguardado.dev/3326/labs/Lab_01.pdf)
+Follow the instructions given above to output a "Hello World!" message.
+
+<br>
+
+**Grading Criteria**
+| Criteria | Points |
+|---|---|
+| Outputs a Hello World! message | 60 |
+| File and class are named Hello | 30 |
+| Class is public | 10 |
 
 [How to Submit Assignments to GitHub](https://joselitoguardado.dev/3326/How_to_Submit_Assignments_to_GitHub.pdf)
